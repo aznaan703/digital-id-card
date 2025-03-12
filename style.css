@@ -1,0 +1,67 @@
+body{
+    margin: 100px;
+    background-color: #2E2E2E;
+    /* margin-top: 300px;
+    margin-left: 600px; */
+
+}
+
+div{
+    background-color: #4A4A4A;
+    height: 270px;
+    width: 700px;
+    border: 3px solid #C0C0C0;
+    border-radius: 5%;
+}
+
+#pfp{
+    width: 70px;
+    border: 2px solid #D4AF37;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: 315px;
+}
+
+#name{
+    margin-top: 5px;
+    text-align: center;
+    margin-bottom: 0px;
+    color: #D4AF37;
+}
+
+#tag{
+    text-align: center;
+    text-transform: capitalize;
+    margin-top: 0px;
+    margin-bottom: 2px;
+}
+
+#skills{
+    margin-left: 180px;
+}
+
+#at{
+    margin-left: 270px;
+}
+
+#follow{
+    margin-left: 295px;
+    margin-bottom: 5px;
+}
+
+#LK{
+    margin-left: 300px;
+}
+
+#GH{
+    margin-top: 3px;
+    margin-left: 20px;
+}
+
+#tag, #follow{
+    color: #B0C4DE;
+}
+
+#skills, #at{
+    color: #C0C0C0;
+}
