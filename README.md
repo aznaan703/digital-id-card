@@ -14,7 +14,7 @@ This is a simple digital card project built using HTML and CSS. It serves as a p
 - **CSS**
 
 ## Folder Structure
-Digital_ID/ │── index.html # Main HTML file │── style.css # CSS for styling the digital card │── pfp.jpg # Profile picture (Ensure you have this image in the correct path)
+Digital_ID/ │── index.html # Main HTML file │── style.css # CSS for styling the digital card │── pfp.jpg # Profile picture
 
 bash
 Copy
